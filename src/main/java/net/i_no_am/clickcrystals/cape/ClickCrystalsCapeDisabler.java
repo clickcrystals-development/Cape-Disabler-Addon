@@ -14,7 +14,7 @@ public class ClickCrystalsCapeDisabler implements ModInitializer, Global {
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 	public static Config config = JsonSerializable.load(Config.PATH_CONFIG, Config.class, new Config());
 
-	/**D
+	/**
 	 * @author I-No-oNe
 	 * First CC Addon -> Made Only For CC Staff
 	 * Be Aware That This Mod Is Experimental
